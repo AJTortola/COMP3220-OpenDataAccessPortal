@@ -20,6 +20,6 @@ Elaboration 1 Includes:<br/>
 1. Phase Plan<br/>
 2. UML Designs<br/>
 3. Data Entry Portal UI<br/>
-4. Java Code Implementations
-   a.
-   b.
+4. Java Code Implementations<br/>
+   a. DataEnt.java<br/>
+   b. Portal.java (Located in the DataPortal Folder)
