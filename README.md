@@ -19,7 +19,7 @@ Inception Includes PDF Document Containing:<br/>
 Elaboration 1 Includes:<br/>
 1. Phase Plan<br/>
 2. UML Designs<br/>
-3. Data Entry Portal PDF //Contains UI Image <br/>
+3. Data Entry Portal PDF (Contains UI Image) <br/>
 4. Java Code Implementations<br/>
-   a. DataEnt.java //Contains Prototype Code Implementation for getting and storing each data entry<br/>
-   b. Portal.java //Located in the DataPortal Folder. Contains Code for Data Entry Portal UI
+   a. DataEnt.java (Contains Prototype Code Implementation for getting and storing each data entry)<br/>
+   b. Portal.java (Located in the DataPortal Folder. Contains Code for Data Entry Portal UI)
