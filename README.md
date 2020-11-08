@@ -18,5 +18,5 @@ Inception includes:<br/>
 # Project Phase 2: Elaboration 1
 Elaboration 1 includes:<br/>
 1. Phase Plan<br/>
-2. UML Diagrams<br/>
+2. UML Designs<br/>
 3. Java Code Implementations
