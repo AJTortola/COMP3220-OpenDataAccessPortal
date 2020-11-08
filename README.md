@@ -19,5 +19,5 @@ Inception Includes PDF Document Containing:<br/>
 Elaboration 1 Includes:<br/>
 1. Phase Plan<br/>
 2. UML Designs<br/>
-3. Test Cases<br/>
+3. Data Entry Portal UI<br/>
 4. Java Code Implementations
