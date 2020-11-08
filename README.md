@@ -3,6 +3,6 @@ Group Project for COMP 3220 to create an Open Data Access Portal for the City of
 <br/>
 # Contents
 <br/>
-# 1. Project Phase 1 Inception
+# Project Phase 1 Inception
 Inception included:<br/>
 1.
