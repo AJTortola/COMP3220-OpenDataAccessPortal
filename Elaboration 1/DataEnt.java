@@ -37,7 +37,7 @@ Class DataEnt
 		this.Files = Files;
 			}
       
-      
+      //Get and Set methods to obtain Data entry values
       public int getDataEntNum()
 	{
 		return DataEntNum;
@@ -78,7 +78,7 @@ Class DataEnt
 		this.Pub = Pub;
 	}	
   
-public String getPubID()
+	public String getPubID()
 	{
 		return PubID;
 	}
@@ -117,6 +117,7 @@ public String getPubID()
 		this.Files = Files;
 	}
 	
+	//Displays All of the Data set values Entered
 	public String DisplayDataInfo()
 	{
 		return (DataEntNum + "\n" + Title + "\n" + Desc + "\n" +Pub + "\n" +PubID + "\n" +Date + "\n" +Images + "\n" +Files);
