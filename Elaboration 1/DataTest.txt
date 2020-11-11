@@ -1,0 +1,6 @@
+FID,RecreationAquatics,ADDRESS,X,Y
+0001,WFCU Centre Community Pool,8787 McHugh Street,42.318304,-82.927867
+0002,Windsor International Aquatic and Training Centre,401 Pitt Street West,42.3173025,-83.0466859
+0003,Adie Knox Herman Community Pool,1551 Wyandotte Street West,42.3076583,-83.0557855
+0004,Gino and Liz Marcus Community Pool,1168 Drouillard Road,42.318902,-83.0001353
+0005,Atkinson Pool,2005 Riverside Drive West,42.3122292,-83.0649944
