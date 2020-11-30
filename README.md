@@ -28,7 +28,7 @@ Elaboration 1 Includes:<br/>
 Elaboration 2 Includes:<br/>
 1. Phase Plan<br/>
 2. UML Designs<br/>
-3. Data Entry Portal PDF (Contains Sample Test Excecution Image)<br/>
+3. Data Portal Sample Test Run PDF (Contains Sample Test Excecution Image)<br/>
 4. Java Code Implementations<br/>
    a. DataPortal.java<br/> 
    b. Arena.java<br/>
