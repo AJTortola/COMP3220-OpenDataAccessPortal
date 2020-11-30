@@ -23,3 +23,13 @@ Elaboration 1 Includes:<br/>
 4. Java Code Implementations<br/>
    a. DataEnt.java (Contains Prototype Code Implementation for getting and storing each data entry)<br/>
    b. Portal.java (Located in the DataPortal Folder. Contains Code for Data Entry Portal UI)
+
+# Project Phase 3: Elaboration 2
+Elaboration 2 Includes:<br/>
+1. Phase Plan<br/>
+2. UML Designs<br/>
+3. Data Entry Portal PDF (Contains Sample Test Excecution Image)<br/>
+4. Java Code Implementations<br/>
+   a. DataPortal.java<br/> 
+   b. Arena.java<br/>
+   c. DataType.Java<br/>
