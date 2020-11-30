@@ -1,4 +1,4 @@
-
+import java.util.concurrent.TimeUnit;
 import java.io.*;
 import java.util.*;
 
@@ -7,8 +7,7 @@ class DataPortal
     public static Arena[] a = new Arena[4];
 
 
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) throws InterruptedException {
 
         readFile("ARENAS"); // load the data from Arenas File
 
@@ -43,7 +42,7 @@ class DataPortal
                     getData = sc.nextInt();
 
                     if(getData == 1) {
-                        System.out.println("Arena ID  Arena Name  Arena Address  Arena Latitude  Arena Longitude" +
+                        System.out.println("|Arena ID|  |Arena Name|  |Arena Address|  |Arena Latitude|  |Arena Longitude|" +
                                 "");
                         for(int i = 0; i < 4; ++i) {
                             a[i].printAll();
@@ -59,7 +58,7 @@ class DataPortal
                 String getSearch = sc.next();
 
                 if(getSearch.equalsIgnoreCase("ARENAS")) {
-                    System.out.println("Arena ID  Arena Name  Arena Address  Arena Latitude  Arena Longitude");
+                    System.out.println("|Arena ID|  |Arena Name|  |Arena Address|  |Arena Latitude|  |Arena Longitude|");
                     for(int i = 0; i < 4; ++i) {
                         a[i].printAll();
                     }
@@ -67,7 +66,9 @@ class DataPortal
                     System.out.println("No Results Found");
                 }
             }else if( getOp == 3){
-                System.out.println("Exiting...");
+                System.out.println("Exiting Data Portal...");
+                TimeUnit.SECONDS.sleep(4);
+                System.out.println("Goodbye! :)");
             }else {
                 System.out.println("Input Invalid");
             }
