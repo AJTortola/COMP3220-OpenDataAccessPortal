@@ -22,9 +22,9 @@ class DataPortal
 
             // menu
             System.out.println("\nMenu");
-            System.out.println("(1)\tData");
-            System.out.println("(2)\tSearch");
-            System.out.println("(3)\tExit");
+            System.out.println("1.\tData");
+            System.out.println("2.\tSearch");
+            System.out.println("3.\tExit");
             System.out.print("Select option: ");
             getOp = sc.nextInt();
 
@@ -36,8 +36,8 @@ class DataPortal
 
                 do {
                     System.out.println("\nData Selection");
-                    System.out.println("(1)\tArenas");
-                    System.out.println("(2)\tBack");
+                    System.out.println("1.\tArenas");
+                    System.out.println("2.\tBack");
                     System.out.print("Select Option: ");
                     getData = sc.nextInt();
 
